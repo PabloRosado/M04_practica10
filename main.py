@@ -4,7 +4,7 @@ from PabloA import exercici1_A as ex1a
 
 
 edat = int(input('Quina edat tens?'))
-print(ex1b.obtenir_any_neixament(edat))
+print(ex1b.anyNeixement(edat))
 
 naixement = int(input('Quin any vas neixer? '))
 print(ex1a.calcul_Edat(naixement))
